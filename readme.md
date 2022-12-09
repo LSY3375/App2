@@ -56,3 +56,4 @@ void winrt::App2::implementation::MainWindow::revealModeCheckBox_Unchecked(winrt
 
 ## 2. 영상
 
+<img src=https://github.com/LSY3375/App2/blob/master/img/app2%20(1).gif>
