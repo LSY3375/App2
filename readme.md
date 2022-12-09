@@ -38,6 +38,8 @@
 ## 1.3 Cpp
 
 ```cpp
+using namespace Microsoft::UI::Xaml::Controls;
+
 void winrt::App2::implementation::MainWindow::revealModeCheckBox_Checked(winrt::Windows::Foundation::IInspectable const& sender, winrt::Microsoft::UI::Xaml::RoutedEventArgs const& e)
 {
     passworBoxWithRevealmode().PasswordRevealMode(PasswordRevealMode::Visible);
