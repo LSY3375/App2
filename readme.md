@@ -52,5 +52,5 @@ void winrt::App2::implementation::MainWindow::revealModeCheckBox_Unchecked(winrt
 
 체크박스의 상태가 변경되면 패스워드 박스의 PasswordRevealMode()의 값을 Visible와 Hidden으로 바꿔줍니다.
 
-## 2. 
+## 2. 영상
 
