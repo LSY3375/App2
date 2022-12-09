@@ -30,7 +30,7 @@
                       Checked="revealModeCheckBox_Checked" Unchecked="revealModeCheckBox_Unchecked"/>
             </StackPanel>
         </Grid>
-    </Grid>
+</Grid>
 ```
 
 체크박스의 Checked와 Unchecked를 통해 패스워드 박스의 상태를 바꿔줍니다.
